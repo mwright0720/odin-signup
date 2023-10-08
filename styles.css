@@ -1,3 +1,9 @@
 input, label {
     display: block;
+    margin: 0 auto;
+}
+
+.signup-boxes {
+    padding: auto;
+    text-align: center;
 }
