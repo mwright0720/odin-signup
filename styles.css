@@ -5,5 +5,16 @@ label,input {
 section {
     display: flex;
     justify-content: center;
-    gap: 2em;
+    gap: 1.25em;
+}
+
+.signup-boxes {
+    text-align: center;
+}
+
+
+body {
+    background-image: url("images/lblogo.jpg");
+    background-size: 35% 100vh;
+    background-repeat: no-repeat;
 }
