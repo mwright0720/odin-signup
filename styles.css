@@ -5,13 +5,20 @@ label,input {
 section {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 1.25em;
+
 }
+
 
 .signup-boxes {
     text-align: center;
 }
 
+h1 {
+    margin: 0px 40vw;
+    width: 50%
+}
 
 body {
     background-image: url("images/lblogo.jpg");
