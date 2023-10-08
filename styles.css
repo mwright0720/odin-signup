@@ -1,9 +1,9 @@
-input, label {
+label,input {
     display: block;
-    margin: 0 auto;
 }
 
-.signup-boxes {
-    padding: auto;
-    text-align: center;
+section {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
 }
